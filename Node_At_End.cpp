@@ -56,5 +56,12 @@ insertAtTail(head, 3);
 insertAtTail(head, 6); // Test inserting at tail when list is not empty
     display(head);
 
-    return 0;
+  return 0;
 }
+/*
+**OUTPUT**
+4 NULL
+5 4 NULL
+5 4 3 NULL
+5 4 3 6 NULL
+  */
