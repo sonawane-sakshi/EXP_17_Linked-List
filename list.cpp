@@ -18,3 +18,7 @@ int main(){
     cout<<l1 ->data<<" "<<l1->next;
     return 0;
 }
+/*
+**OUTPUT**
+6 0
+  */
